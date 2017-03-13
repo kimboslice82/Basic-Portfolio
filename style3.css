@@ -1,0 +1,108 @@
+html {
+    margin-left: 150px;
+    margin-right: 150px;
+    background-image: url(light_grey_@2X.jpg);
+    
+}
+
+#fixedheader {
+    background-color: #ffffff;
+    width: 960px;
+    height: 124px;
+}
+
+#name {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: #ffffff;
+    background-color:#4aaaa5;
+    padding: 15px;
+    width: 200px;
+    
+}
+
+.links {
+    width: 250px;
+    margin-left: 150px;
+    /*position: relative;
+    left: 150px;
+    top: 75px;*/
+   
+}
+
+.links a {
+    padding: 15px;
+}
+
+#name, .links {
+    float: left;
+}
+
+#aboutMe {
+    clear: both;
+    color: #4aaaa5;
+    background-color: #ffffff;
+    padding-left: 15px;
+  
+    
+}
+
+.selfie {
+    float: left;
+    padding: 15px;
+    
+}
+
+p{
+    background-color: #ffffff;
+    padding: 15px;
+    height: 175px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.selfie, p {
+}
+
+.content {
+    background-color: #ffffff;
+    margin-top: 15px;
+    width: 450px;
+}
+
+.connect {
+    background-color: #ffffff;
+    width: 250px;
+    height: 150px;
+    position: relative;
+    left: 600px;
+    bottom: 100px;
+    text-align: center;
+    color: #4aaaa5;
+        
+}
+
+.contact {
+
+}
+
+input {
+    width: 50%;
+    text-align: left;
+}
+
+#message {
+    height: 200px;
+}
+
+
+footer {
+    clear: both;
+    background-color: #666666;
+    color: #ffffff;
+    text-align: center;
+    width: 960px;
+    padding: 20px;
+    margin-top: 15px;
+    border-top: solid;
+    border-top-color: #4aaaa5;
+    
+}

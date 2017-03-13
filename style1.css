@@ -1,0 +1,87 @@
+html {
+	margin-left: 150px;
+  	margin-right: 150px;
+}
+
+.fixedheader {
+	background-color: #ffffff;
+	background-image: none;
+	/*position: fixed;*/
+	width: 100%;
+    height: 125px;
+}
+nav {
+	float: right;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  	text-align: center;
+  	/*margin: 10px;*/
+  	/*padding-left: 20px;*/
+  	padding-top:  60px;
+  	padding-right: 50px;
+}
+
+/*.links {
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  	text-align: center;
+  	margin: 10px;
+  	padding-left: 20px;
+  	padding-top:  60px;
+  	padding-right: 50px;
+}*/
+
+
+body {
+	/*margin-left: 270px;*/
+	clear: both;
+  	background-image: url(light_grey_@2X.jpg);
+  	/*width: 50%;*/
+  	display: inline-block;
+	
+}
+
+h1 {
+	background-color: #4aaaa5;
+	color: white;
+	font-family: 'Georgia', Times, 'Times New Roman', serif; 
+
+}
+
+.aboutMe {
+	background-color: #ffffff;
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, 'Times New Roman', serif; 
+  	clear: both;
+  	width: 50%;
+
+}
+
+.img {
+    
+    
+    
+}
+
+.name {
+	padding: 15px;
+	float: left;
+	width: 175px;
+}
+
+.selfie {
+	float: left;
+}
+
+
+main {
+  clear: both;
+}
+
+.connect {
+	clear: both;
+    width: 270px;
+    
+}
+
+footer {
+	background-image: none;
+}
